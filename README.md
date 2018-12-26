@@ -9,3 +9,5 @@ ENUM:
   
   
   
+Hibernate:
+  - https://docs.jboss.org/hibernate/orm/3.3/reference/en/html/querycriteria.html
