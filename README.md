@@ -15,3 +15,8 @@ Hibernate:
   - https://docs.jboss.org/hibernate/orm/3.3/reference/en/html/querycriteria.html
   - https://docs.jboss.org/hibernate/core/3.5/api/org/hibernate/Session.html
   
+Java multi module project structure by mkyoung:
+  - http://www.mkyong.com/maven/maven-how-to-create-a-multi-module-project/
+  - https://github.com/mkyong/maven-examples/tree/master/java-multi-modules
+  
+  
