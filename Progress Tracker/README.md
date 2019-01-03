@@ -1,7 +1,7 @@
 # Java novice to Master (industry compliant) course outline
 
 
-| Title | Breakdown | Time |
+| Title | Breakdown | Resource |
 | --- | --- | --- |
 | Object Oriented Programming | Class fundamentals |   |
 |   | Object &amp; Object Reference |   |
@@ -22,23 +22,23 @@
 |   | Access Control, Modifiers, methods |   |
 |   | Design of accessors and mutators |   |
 |   | Cloning objects/shallow &amp; deep cloning |   |
-| 5 | Exception handling | The idea behind the exception |   |
-|   |   | Exception &amp; Errors |   |
-|   |   | Type of Exception |   |
-|   |   | Use of try, catch, finally, throw and throws in Exception handling |   |
-|   |   | Stack-trace |   |
-|   |   | Checked -vs Unchecked exception |   |
-|   |   | Frequently used in-built exception classes |   |
-|   |   | User defined exceptions |   |
-| 6 | Generics | Generics in Java |   |
-|   |   | How generics works in Java |   |
-|   |   | Bounded Types |   |
-|   |   | Generics, Inheritance, and Subtypes |   |
-|   |   | Type Inference |   |
-|   |   | Wildcard arguments |   |
-|   |   | Generic Method |   |
-|   |   | Type Erasure |   |
-|   |   | Restrictions on Generics |   |
+| Exception handling | The idea behind the exception |   |
+|   | Exception &amp; Errors |   |
+|   | Type of Exception |   |
+|   | Use of try, catch, finally, throw and throws in Exception handling |   |
+|   | Stack-trace |   |
+|   | Checked -vs Unchecked exception |   |
+|   | Frequently used in-built exception classes |   |
+|   | User defined exceptions |   |
+| Generics | Generics in Java |   |
+|   | How generics works in Java |   |
+|   | Bounded Types |   |
+|   | Generics, Inheritance, and Subtypes |   |
+|   | Type Inference |   |
+|   | Wildcard arguments |   |
+|   | Generic Method |   |
+|   | Type Erasure |   |
+|   | Restrictions on Generics |   |
 | 7 | Java I/O | Serialization/Externalizable |   |
 |   |   | readObject() / writeObject() |   |
 |   |   | Serial Object Versioning |   |
