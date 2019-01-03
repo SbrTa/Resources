@@ -9,6 +9,8 @@
 | JSP | JSP fundamentals |   |
 |   | Tags: Declaration, Directive, Scriptlet, Expression, JSP action etc |   |
 |   | JSTL |   |
+| JSON | JSON fundamentals |   |
+|   | JsonPath | https://github.com/json-path/JsonPath   |
 | OOP | Class fundamentals |   |
 |   | Object &amp; Object Reference |   |
 |   | Creating objects |   |
