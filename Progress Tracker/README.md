@@ -1,4 +1,4 @@
-# Java novice to Master (industry compliant) course outline
+# Road to Mountain : A Noobie at Java port
 
 
 | Title | Breakdown | Resource |
