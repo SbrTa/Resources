@@ -1,7 +1,7 @@
 # Road to Mountain : A Noobie at Java port
 
 
-| Title | Breakdown | Resource |
+| Terrain | Rocks | Steps |
 | --- | --- | --- |
 | Spring | Fundamentals |   |
 |   | Security |   |
