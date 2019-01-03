@@ -18,11 +18,12 @@
 |   | Polymorphism |   |
 |   | Interface |   |
 |   | Encapsulation |   |
-| SOLID principle | Single Responsiblity |   |
-|   | Open/Closed |   |
-|   | Liskov substitution |   |
-|   | Interface segregation |   |
-|   | Dependency Inversion |   |
+| Design Principles |  | https://medium.com/omarelgabrys-blog/object-oriented-analysis-and-design-design-principles-part-6-b78e2b9da023 |
+|   | KISS |  |
+|   | DRY |   |
+|   | YAGNI |   |
+|   | SOLID |   |
+|   | GRASP |   |
 | DRY principle  |  |   |
 | Exception handling | The idea behind the exception |   |
 |   | Exception &amp; Errors |   |
