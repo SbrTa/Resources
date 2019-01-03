@@ -3,7 +3,7 @@
 
 | Title | Breakdown | Resource |
 | --- | --- | --- |
-| Object Oriented Programming | Class fundamentals |   |
+| OOP | Class fundamentals |   |
 |   | Object &amp; Object Reference |   |
 |   | Creating objects |   |
 |   | Constructor and initializing code blocks |   |
@@ -31,105 +31,58 @@
 |   | Frequently used in-built exception classes |   |
 |   | User defined exceptions |   |
 | Generics | Generics in Java |   |
-|   | How generics works in Java |   |
-|   | Bounded Types |   |
-|   | Generics, Inheritance, and Subtypes |   |
-|   | Type Inference |   |
-|   | Wildcard arguments |   |
-|   | Generic Method |   |
-|   | Type Erasure |   |
-|   | Restrictions on Generics |   |
-| 7 | Java I/O | Serialization/Externalizable |   |
-|   |   | readObject() / writeObject() |   |
-|   |   | Serial Object Versioning |   |
-|   |   | Streams- input/output streams |   |
-|   |   | Writing/reading file using streams |   |
-|   |   | Java I/O utility classess |   |
-|   |   | Character/Byte based stream |   |
-|   |   | Java New IO Package |   |
-|   |   | Motivation for Using |   |
-|   |   | Working with Buffers |   |
-|   |   | Allocating Buffers |   |
-|   |   | Buffers Advantages |   |
-|   |   | Channels |   |
-|   |   | Memory Mapped Files |   |
-|   |   | Non-Blocking Operations |   |
-|   |   | Selectors |   |
-|   |   | NIO Uses |   |
-|   |   | Character Streams Encoding |   |
-|   |   | The Unicode Standard |   |
-|   |   | Forms of Unicode |   |
-|   |   | 32-bit Characters |   |
-|   |   | Big / Little Endian |   |
-|   |   | Other Encodings |   |
-|   |   | Charset Class |   |
-|   |   | Encoders and Decoders |   |
-|   |   | Code Points |   |
-| 8 |  Reflection API | Overview |   |
-|   |   | Introduction |   |
-|   |   | Usefulness of Reflection |   |
-|   |   | Dangers of Reflection |   |
-|   |   | Examining Classes |   |
-|   |   | Reflection Package |   |
-|   |   | Retrieving Class Objects |   |
-|   |   | Working with Class Objects |   |
-|   |   | Accessing fields/methods |   |
-|   |   | Generics |   |
-|   |   | Manipulating/working with Objects |   |
-|   |   | Getting and Setting Fields |   |
-|   |   | Invoking Methods |   |
-|   |   | Casting through Reflection |   |
-|   |   | Final fields |   |
-|   |   | Working with Arrays |   |
-|   |   | Creating new Arrays |   |
-|   |   | Dynamic Proxy Classes |   |
-|   |   | Proxy Definition |   |
-|   |   | Creating new Proxy |   |
-|   |   | InvocationHandler |   |
-|   |   | Proxy Class |   |
-|   |   | Classes |   |
-|   |   | When are Classes Loaded? |   |
-|   |   | How loadClass() works |   |
-|   |   | Implementing own ClassLoader |   |
-|   |   | The defineClass Method |   |
-|   |   | Java Annotation processing |   |
-|   |   | Declaring an Annotation Type |   |
-|   |   | Predefined Annotation Types |   |
-|   |   | How to write custom annoation |   |
-| 9 | Thread | Understanding Threads |   |
-|   |   | Needs of Multi-Threaded Programming. |   |
-|   |   | Thread Life-Cycle |   |
-|   |   | Thread Priorities |   |
-|   |   | Synchronizing Threads |   |
-|   |   | Inter Communication of Threads |   |
-|   |   | Critical Factor in Thread -DeadLock |   |
-|   |   | High Level Concurrency Objects |   |
-|   |   | Thread Analysis with VisualVM |   |
-| 10 | Java Memory model | String operations |   |
-|   |   | Java Memory model |   |
-|   |   | Stack based architecture  |   |
-|   |   | Bytecode |   |
-|   |   | Runtime Data Areas |   |
-|   |   | Heap |   |
-|   |   | Method Area |   |
-|   |   | Runtime Constacnt pool |   |
-|   |   | Java Virtual Machine Stacks |   |
-| 11 | Strings | String operations |   |
-|   |   | String immutability |   |
-|   |   | Tokenizing string |   |
-|   |   | String buffer/string builder |   |
-| 12 | Collection Framework | The Java Collections Framework |   |
-|   |   | Collections Interfaces |   |
-|   |   | java.util.Collection |   |
-|   |   | java.util.List |   |
-|   |   | java.util.Map |   |
-|   |   | java.util.Set |   |
-|   |   | Concrete Collections |   |
-|   |   | java.util.ArrayList |   |
-|   |   | java.util.HashMap |   |
-|   |   | java.util.HashSet |   |
-|   |   | Iterating through Collections |   |
-|   |   | java.util.Iterator |   |
+|Reflection API | Overview |   |
+|   | Introduction |   |
+|   | Usefulness of Reflection |   |
+|   | Dangers of Reflection |   |
+|   | Examining Classes |   |
+|   | Reflection Package |   |
+|   | Retrieving Class Objects |   |
+|   | Working with Class Objects |   |
+|   | Accessing fields/methods |   |
+|   | Generics |   |
+|   | Manipulating/working with Objects |   |
+|   | Getting and Setting Fields |   |
+|   | Invoking Methods |   |
+|   | Casting through Reflection |   |
+|   | Final fields |   |
+|   | Working with Arrays |   |
+|   | Creating new Arrays |   |
+|   | Dynamic Proxy Classes |   |
+|   | Proxy Definition |   |
+|   | Creating new Proxy |   |
+|   | InvocationHandler |   |
+|   | Proxy Class |   |
+|   | Classes |   |
+|   | When are Classes Loaded? |   |
+|   | How loadClass() works |   |
+|   | Implementing own ClassLoader |   |
+|   | The defineClass Method |   |
+|   | Java Annotation processing |   |
+|   | Declaring an Annotation Type |   |
+|   | Predefined Annotation Types |   |
+|   | How to write custom annoation |   |
+| Thread | Understanding Threads |   |
+|   | Needs of Multi-Threaded Programming. |   |
+|   | Thread Life-Cycle |   |
+|   | Thread Priorities |   |
+|   | Synchronizing Threads |   |
+|   | Inter Communication of Threads |   |
+|   | Critical Factor in Thread -DeadLock |   |
+|   | High Level Concurrency Objects |   |
+|   | Thread Analysis with VisualVM |   |
+| Collection Framework | The Java Collections Framework |   |
+|   | Collections Interfaces |   |
+|   | java.util.Collection |   |
+|   | java.util.List |   |
+|   | java.util.Map |   |
+|   | java.util.Set |   |
+|   | Concrete Collections |   |
+|   | java.util.ArrayList |   |
+|   | java.util.HashMap |   |
+|   | java.util.HashSet |   |
+|   | Iterating through Collections |   |
+|   | java.util.Iterator |   |
 | 13 | Lambda Expression &amp; Stream API | What is lambda expression |   |
 |   |   | Structure of lambda expression |   |
 |   |   | Passing code with behavior parametrization |   |
