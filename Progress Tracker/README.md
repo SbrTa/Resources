@@ -24,7 +24,6 @@
 |   | YAGNI |   |
 |   | SOLID |   |
 |   | GRASP |   |
-| DRY principle  |  |   |
 | Exception handling | The idea behind the exception |   |
 |   | Exception &amp; Errors |   |
 |   | Type of Exception |   |
