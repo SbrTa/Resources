@@ -12,25 +12,18 @@
 | JSON | JSON fundamentals |   |
 |   | JsonPath | https://github.com/json-path/JsonPath   |
 | Tiles 3 | Fundamentals with Example | Spring by Mozammel Haque 113-117   |
-| OOP | Class fundamentals |   |
-|   | Object &amp; Object Reference |   |
-|   | Creating objects |   |
-|   | Constructor and initializing code blocks |   |
-|   | Method overloading |   |
-|   | Inheritance -is A , has A relation |   |
-|   | Method overriding |   |
-|   | Abstract class |   |
-|   | Final class |   |
-|   | Object composition |   |
+| OOP | Fundamentals |   |
+|   | Inheritence |   |
+|   | Abstraction |   |
 |   | Polymorphism |   |
-|   | Variable type &amp; object Type |   |
-|   | Upcasting &amp; downcasting |   |
 |   | Interface |   |
-|   | Abstract class vs. interface |   |
 |   | Encapsulation |   |
-|   | Access Control, Modifiers, methods |   |
-|   | Design of accessors and mutators |   |
-|   | Cloning objects/shallow &amp; deep cloning |   |
+| SOLID principle | Single Responsiblity |   |
+|   | Open/Closed |   |
+|   | Liskov substitution |   |
+|   | Interface segregation |   |
+|   | Dependency Inversion |   |
+| DRY principle  |  |   |
 | Exception handling | The idea behind the exception |   |
 |   | Exception &amp; Errors |   |
 |   | Type of Exception |   |
