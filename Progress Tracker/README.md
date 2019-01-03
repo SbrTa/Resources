@@ -1,53 +1,27 @@
 # Java novice to Master (industry compliant) course outline
 
 
-|   | Title | Breakdown | Time |
-| --- | --- | --- | --- |
-| 1 | Introduction | Why Java |   |
-|   |   | Java Design Goal and History |   |
-|   |   | Role of Java Programming Language in Industry |   |
-|   |   | Feature Of Java Language |   |
-|   |   | JVM – the heart of Java |   |
-|   |   | Byte code- the magic code |   |
-|   |   | Different Edition of Java |   |
-| 2 | Language Fundamentals and Java Environment | Installing Java  |   |
-|   |   | Integrated Development Environment (IDE)- Eclipse/IntelliJ IDEA |   |
-|   |   | Java Source file structure |   |
-|   |   | Compilation &amp; Execution |   |
-|   |   | Hello world Program |   |
-|   |   | Performing basic arithmetic operation and input taking from console |   |
-|   |   | How to run java program in Command Line  |   |
-| 3 | Basic Java programming Structure and Language Elements | Keywords, Literals, Comments |   |
-|   |   | Data Types |   |
-|   |   | Operators &amp; Assignments |   |
-|   |   | Class/Object |   |
-|   |   | Methods |   |
-|   |   | Package |   |
-|   |   | Constructors |   |
-|   |   | Package and importing Package |   |
-|   |   | Variables |   |
-|   |   | Printing Variables |   |
-|   |   | Control Flow , looping and branching |   |
-|   |   | Java Arrays |   |
-| 4 | Object Oriented Programming | Class fundamentals |   |
-|   |   | Object &amp; Object Reference |   |
-|   |   | Creating objects |   |
-|   |   | Constructor and initializing code blocks |   |
-|   |   | Method overloading |   |
-|   |   | Inheritance -is A , has A relation |   |
-|   |   | Method overriding |   |
-|   |   | Abstract class |   |
-|   |   | Final class |   |
-|   |   | Object composition |   |
-|   |   | Polymorphism |   |
-|   |   | Variable type &amp; object Type |   |
-|   |   | Upcasting &amp; downcasting |   |
-|   |   | Interface |   |
-|   |   | Abstract class vs. interface |   |
-|   |   | Encapsulation |   |
-|   |   | Access Control, Modifiers, methods |   |
-|   |   | Design of accessors and mutators |   |
-|   |   | Cloning objects/shallow &amp; deep cloning |   |
+| Title | Breakdown | Time |
+| --- | --- | --- |
+| Object Oriented Programming | Class fundamentals |   |
+|   | Object &amp; Object Reference |   |
+|   | Creating objects |   |
+|   | Constructor and initializing code blocks |   |
+|   | Method overloading |   |
+|   | Inheritance -is A , has A relation |   |
+|   | Method overriding |   |
+|   | Abstract class |   |
+|   | Final class |   |
+|   | Object composition |   |
+|   | Polymorphism |   |
+|   | Variable type &amp; object Type |   |
+|   | Upcasting &amp; downcasting |   |
+|   | Interface |   |
+|   | Abstract class vs. interface |   |
+|   | Encapsulation |   |
+|   | Access Control, Modifiers, methods |   |
+|   | Design of accessors and mutators |   |
+|   | Cloning objects/shallow &amp; deep cloning |   |
 | 5 | Exception handling | The idea behind the exception |   |
 |   |   | Exception &amp; Errors |   |
 |   |   | Type of Exception |   |
