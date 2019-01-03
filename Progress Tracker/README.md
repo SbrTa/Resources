@@ -3,6 +3,12 @@
 
 | Title | Breakdown | Resource |
 | --- | --- | --- |
+| Spring | Fundamentals |   |
+|   | Security |   |
+| REST | RestTemplate |   |
+| JSP | JSP fundamentals |   |
+|   | Tags: Declaration, Directive, Scriptlet, Expression, JSP action etc |   |
+|   | JSTL |   |
 | OOP | Class fundamentals |   |
 |   | Object &amp; Object Reference |   |
 |   | Creating objects |   |
