@@ -11,6 +11,10 @@
 |   | JSTL |   |
 | JSON | JSON fundamentals |   |
 |   | JsonPath | https://github.com/json-path/JsonPath   |
+| Java Script | Java Script fundamentals |   |
+|   | jQuery |    |
+| CSS | Fundamental |  |
+|   | Bootstrap  |   |  
 | Tiles 3 | Fundamentals with Example | Spring by Mozammel Haque 113-117   |
 | OOP | Fundamentals |   |
 |   | Inheritence |   |
