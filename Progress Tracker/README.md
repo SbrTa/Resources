@@ -13,6 +13,8 @@
 |   | JsonPath | https://github.com/json-path/JsonPath   |
 | Java Script | Fundamental |   |
 |   | jQuery |    |
+| AJAX | Fundamental |   |
+|   | jQuery.ajax | http://api.jquery.com/jquery.ajax/   |
 | CSS | Fundamental |  |
 |   | Bootstrap  |   |  
 | Tiles 3 | Fundamentals with Example | Spring by Mozammel Haque 113-117   |
