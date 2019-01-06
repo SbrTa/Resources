@@ -5,7 +5,7 @@
 | --- | --- | --- |
 | Spring | Fundamentals | Spring by Mozammel Haque  |
 |   | Security |   |
-| REST | RestTemplate |   |
+| REST | RestTemplate | https://www.baeldung.com/rest-template  |
 | JSP | JSP fundamentals |   |
 |   | Tags: Declaration, Directive, Scriptlet, Expression, JSP action etc |   |
 |   | JSTL |   |
