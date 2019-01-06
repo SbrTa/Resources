@@ -3,20 +3,20 @@
 
 | Terrain | Rocks | Steps |
 | --- | --- | --- |
-| Spring | Fundamentals | Spring by Mozammel Haque  |
+| Spring | Fundamental | Spring by Mozammel Haque  |
 |   | Security |   |
 | REST | RestTemplate | https://www.baeldung.com/rest-template  |
-| JSP | JSP fundamentals |   |
+| JSP | Fundamental |   |
 |   | Tags: Declaration, Directive, Scriptlet, Expression, JSP action etc |   |
 |   | JSTL |   |
-| JSON | JSON fundamentals |   |
+| JSON | Fundamental |   |
 |   | JsonPath | https://github.com/json-path/JsonPath   |
-| Java Script | Java Script fundamentals |   |
+| Java Script | Fundamental |   |
 |   | jQuery |    |
 | CSS | Fundamental |  |
 |   | Bootstrap  |   |  
 | Tiles 3 | Fundamentals with Example | Spring by Mozammel Haque 113-117   |
-| OOP | Fundamentals |   |
+| OOP | Fundamental |   |
 |   | Inheritence |   |
 |   | Abstraction |   |
 |   | Polymorphism |   |
