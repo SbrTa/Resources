@@ -24,8 +24,6 @@ Thymeleaf
 
 JUnit
 
-AJAX
-
 SOAP based Web Services (JAX-WS)
 
 Elastic search
