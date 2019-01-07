@@ -20,6 +20,8 @@ Angular.js 2
 
 Vue.js
 
+Thymeleaf
+
 JUnit
 
 AJAX
