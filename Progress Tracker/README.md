@@ -20,7 +20,7 @@
 | Tiles 3 | Fundamentals with Example | Spring by Mozammel Haque 113-117   |
 | AOP | Fundamental | Spring by Mozammel Haque  |
 |   | ..... |   |
-| OOP | Fundamental |   |
+| OOP | Fundamental | Durga / Ratan  |
 |   | Inheritence |   |
 |   | Abstraction |   |
 |   | Polymorphism |   |
