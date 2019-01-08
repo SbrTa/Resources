@@ -13,6 +13,7 @@
 |   | JsonPath | https://github.com/json-path/JsonPath   |
 | Java Script | Fundamental | https://app.pluralsight.com/library/courses/jscript-fundamentals/table-of-contents  |
 |   | jQuery |    |
+|   | JS vs jQuery | https://www.w3schools.com/js/js_jquery_selectors.asp |
 | AJAX | Fundamental |   |
 |   | jQuery.ajax | http://api.jquery.com/jquery.ajax/   |
 | CSS | Fundamental |  |
