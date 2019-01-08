@@ -21,6 +21,8 @@
 | Tiles 3 | Fundamentals with Example | Spring by Mozammel Haque 113-117   |
 | Spring | Fundamental | Spring by Mozammel Haque  |
 |   | Security |   |
+| AOP | Fundamental | Spring by Mozammel Haque  |
+|   | ..... |   |
 | REST | RestTemplate | https://www.baeldung.com/rest-template  |
 | JSP | Fundamental | https://www.tutorialspoint.com/jsp/   |
 |   | Syntex: Declaration, Directive, Scriptlet, Expression, JSP action etc | https://www.tutorialspoint.com/jsp/jsp_syntax.htm  |
@@ -32,8 +34,6 @@
 |   | JS vs jQuery | https://www.w3schools.com/js/js_jquery_selectors.asp |
 | AJAX | Fundamental |   |
 |   | jQuery.ajax | http://api.jquery.com/jquery.ajax/   |
-| AOP | Fundamental | Spring by Mozammel Haque  |
-|   | ..... |   |
 | Exception handling | The idea behind the exception |   |
 |   | Exception &amp; Errors |   |
 |   | Type of Exception |   |
