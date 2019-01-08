@@ -12,7 +12,7 @@
 | JSON | Fundamental |https://www.w3schools.com/js/js_json_intro.asp https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/  |
 |   | JsonPath | https://github.com/json-path/JsonPath   |
 | Java Script | Fundamental | https://app.pluralsight.com/library/courses/jscript-fundamentals/table-of-contents  |
-|   | jQuery |    |
+|   | jQuery | https://code.tutsplus.com/courses/30-days-to-learn-jquery   |
 |   | JS vs jQuery | https://www.w3schools.com/js/js_jquery_selectors.asp |
 | AJAX | Fundamental |   |
 |   | jQuery.ajax | http://api.jquery.com/jquery.ajax/   |
