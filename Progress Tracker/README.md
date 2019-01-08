@@ -9,7 +9,7 @@
 | JSP | Fundamental | https://www.tutorialspoint.com/jsp/   |
 |   | Syntex: Declaration, Directive, Scriptlet, Expression, JSP action etc | https://www.tutorialspoint.com/jsp/jsp_syntax.htm  |
 |   | JSTL | https://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm  |
-| JSON | Fundamental | https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/  |
+| JSON | Fundamental |https://www.w3schools.com/js/js_json_intro.asp https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/  |
 |   | JsonPath | https://github.com/json-path/JsonPath   |
 | Java Script | Fundamental | https://app.pluralsight.com/library/courses/jscript-fundamentals/table-of-contents  |
 |   | jQuery |    |
