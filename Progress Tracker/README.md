@@ -3,24 +3,6 @@
 
 | Terrain | Rocks | Steps |
 | --- | --- | --- |
-| Spring | Fundamental | Spring by Mozammel Haque  |
-|   | Security |   |
-| REST | RestTemplate | https://www.baeldung.com/rest-template  |
-| JSP | Fundamental | https://www.tutorialspoint.com/jsp/   |
-|   | Syntex: Declaration, Directive, Scriptlet, Expression, JSP action etc | https://www.tutorialspoint.com/jsp/jsp_syntax.htm  |
-|   | JSTL | https://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm  |
-| JSON | Fundamental |https://www.w3schools.com/js/js_json_intro.asp https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/  |
-|   | JsonPath | https://github.com/json-path/JsonPath   |
-| Java Script | Fundamental | https://app.pluralsight.com/library/courses/jscript-fundamentals/table-of-contents  |
-|   | jQuery | https://code.tutsplus.com/courses/30-days-to-learn-jquery   |
-|   | JS vs jQuery | https://www.w3schools.com/js/js_jquery_selectors.asp |
-| AJAX | Fundamental |   |
-|   | jQuery.ajax | http://api.jquery.com/jquery.ajax/   |
-| CSS | Fundamental |  |
-|   | Bootstrap  |   |  
-| Tiles 3 | Fundamentals with Example | Spring by Mozammel Haque 113-117   |
-| AOP | Fundamental | Spring by Mozammel Haque  |
-|   | ..... |   |
 | OOP | Fundamental | Durga / Ratan  |
 |   | Inheritence |   |
 |   | Abstraction |   |
@@ -34,6 +16,24 @@
 |   | YAGNI |   |
 |   | SOLID |   |
 |   | GRASP |   |
+| CSS | Fundamental |  |
+|   | Bootstrap  |   |  
+| Tiles 3 | Fundamentals with Example | Spring by Mozammel Haque 113-117   |
+| Spring | Fundamental | Spring by Mozammel Haque  |
+|   | Security |   |
+| REST | RestTemplate | https://www.baeldung.com/rest-template  |
+| JSP | Fundamental | https://www.tutorialspoint.com/jsp/   |
+|   | Syntex: Declaration, Directive, Scriptlet, Expression, JSP action etc | https://www.tutorialspoint.com/jsp/jsp_syntax.htm  |
+|   | JSTL | https://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm  |
+| JSON | Fundamental |https://www.w3schools.com/js/js_json_intro.asp https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/  |
+|   | JsonPath | https://github.com/json-path/JsonPath   |
+| Java Script | Fundamental | https://app.pluralsight.com/library/courses/jscript-fundamentals/table-of-contents  |
+|   | jQuery | https://code.tutsplus.com/courses/30-days-to-learn-jquery   |
+|   | JS vs jQuery | https://www.w3schools.com/js/js_jquery_selectors.asp |
+| AJAX | Fundamental |   |
+|   | jQuery.ajax | http://api.jquery.com/jquery.ajax/   |
+| AOP | Fundamental | Spring by Mozammel Haque  |
+|   | ..... |   |
 | Exception handling | The idea behind the exception |   |
 |   | Exception &amp; Errors |   |
 |   | Type of Exception |   |
