@@ -7,7 +7,7 @@
 |   | Security |   |
 | REST | RestTemplate | https://www.baeldung.com/rest-template  |
 | JSP | Fundamental | https://www.tutorialspoint.com/jsp/   |
-|   | Tags: Declaration, Directive, Scriptlet, Expression, JSP action etc |   |
+|   | Syntex: Declaration, Directive, Scriptlet, Expression, JSP action etc | https://www.tutorialspoint.com/jsp/jsp_syntax.htm  |
 |   | JSTL | https://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm  |
 | JSON | Fundamental |   |
 |   | JsonPath | https://github.com/json-path/JsonPath   |
