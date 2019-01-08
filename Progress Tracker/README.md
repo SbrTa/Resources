@@ -11,7 +11,7 @@
 |   | JSTL | https://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm  |
 | JSON | Fundamental |   |
 |   | JsonPath | https://github.com/json-path/JsonPath   |
-| Java Script | Fundamental |   |
+| Java Script | Fundamental | https://app.pluralsight.com/library/courses/jscript-fundamentals/table-of-contents  |
 |   | jQuery |    |
 | AJAX | Fundamental |   |
 |   | jQuery.ajax | http://api.jquery.com/jquery.ajax/   |
