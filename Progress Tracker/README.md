@@ -21,8 +21,8 @@
 | Tiles 3 | Fundamentals with Example | Spring by Mozammel Haque 113-117   |
 | Spring | Fundamental | Spring by Mozammel Haque  |
 |   | Security |   |
-| AOP | Fundamental | Spring by Mozammel Haque  |
-|   | ..... |   |
+| AOP | Fundamental | Spring by Mozammel Haque https://docs.spring.io/spring/docs/4.3.15.RELEASE/spring-framework-reference/html/aop.html  |
+|   | AOP VS AspectJ | https://www.baeldung.com/spring-aop-vs-aspectj  |
 | REST | RestTemplate | https://www.baeldung.com/rest-template  |
 | JSP | Fundamental | https://www.tutorialspoint.com/jsp/   |
 |   | Syntex: Declaration, Directive, Scriptlet, Expression, JSP action etc | https://www.tutorialspoint.com/jsp/jsp_syntax.htm  |
