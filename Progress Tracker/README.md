@@ -149,10 +149,4 @@
 |   |   | Session |   |
 |   |   | Filter |   |
 |   |   | What is JSP and why |   |
-| 18 | Build Tool | About Gradle |   |
-|   |   | Gradle build script |   |
-|   |   | Defining Task |   |
-|   |   | Executing Task |   |
-|   |   | Built-in Task |   |
-|   |   | Build Life-Cycle |   |
-|   |   | Gradle plugins |   |
+
