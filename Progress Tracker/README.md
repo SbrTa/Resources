@@ -148,5 +148,5 @@
 |   |   | Getting Parameters |   |
 |   |   | Session |   |
 |   |   | Filter |   |
-|   |   | What is JSP and why |   |
+|   |   | What is JSP and why? |   |
 
