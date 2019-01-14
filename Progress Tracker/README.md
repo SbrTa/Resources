@@ -93,8 +93,6 @@
 |   | java.util.ArrayList |   |
 |   | java.util.HashMap |   |
 |   | java.util.HashSet |   |
-|   | Iterating through Collections |   |
-|   | java.util.Iterator |   |
 | 13 | Lambda Expression &amp; Stream API | What is lambda expression |   |
 |   |   | Structure of lambda expression |   |
 |   |   | Passing code with behavior parametrization |   |
