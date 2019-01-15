@@ -35,6 +35,7 @@
 |   | JS vs jQuery | https://www.w3schools.com/js/js_jquery_selectors.asp |
 | AJAX | Fundamental |   |
 |   | jQuery.ajax | http://api.jquery.com/jquery.ajax/   |
+| Multi module | Project Structure | http://www.mkyong.com/maven/maven-how-to-create-a-multi-module-project/ https://github.com/mkyong/maven-examples/tree/master/java-multi-modules https://books.sonatype.com/mvnex-book/reference/multimodule.html |
 | Exception handling | The idea behind the exception |   |
 |   | Exception &amp; Errors |   |
 |   | Type of Exception |   |
