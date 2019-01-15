@@ -24,6 +24,7 @@
 | AOP | Fundamental | Spring by Mozammel Haque https://docs.spring.io/spring/docs/4.3.15.RELEASE/spring-framework-reference/html/aop.html  |
 |   | AOP VS AspectJ | https://www.baeldung.com/spring-aop-vs-aspectj  |
 | REST | RestTemplate | https://www.baeldung.com/rest-template  |
+| Servlet | Fundamental | https://www.youtube.com/watch?v=b42CJ0r-1to&list=PLE0F6C1917A427E96 |
 | JSP | Fundamental | https://www.tutorialspoint.com/jsp/   |
 |   | Syntex: Declaration, Directive, Scriptlet, Expression, JSP action etc | https://www.tutorialspoint.com/jsp/jsp_syntax.htm  |
 |   | JSTL | https://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm  |
@@ -137,14 +138,5 @@
 |   |   | Using RowSet objects |   |
 |   |   | Using ResultSet objects |   |
 |   |   | Using stored procedure |   |
-| 17 | Java Servlet/JSP | Understanding HTTP protocol |   |
-|   |   | What is Servlet |   |
-|   |   | Servlet Life cycle |   |
-|   |   | Web Server/Web container |   |
-|   |   | HttpServlet |   |
-|   |   | DoGet method/ DoPost Method |   |
-|   |   | Getting Parameters |   |
-|   |   | Session |   |
-|   |   | Filter |   |
-|   |   | What is JSP and why |   |
+
 
