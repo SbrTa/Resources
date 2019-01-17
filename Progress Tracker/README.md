@@ -19,6 +19,9 @@
 | CSS | Fundamental |  |
 |   | Bootstrap  |   |  
 | Tiles 3 | Fundamentals with Example | Spring by Mozammel Haque 113-117   |
+| Hibernate | | |
+|   | Criteria Queries | https://docs.jboss.org/hibernate/orm/3.3/reference/en/html/querycriteria.html |
+|   | Session | https://docs.jboss.org/hibernate/core/3.5/api/org/hibernate/Session.html |
 | Spring | Fundamental | Spring by Mozammel Haque  |
 |   | Security |   |
 | AOP | Fundamental | Spring by Mozammel Haque https://docs.spring.io/spring/docs/4.3.15.RELEASE/spring-framework-reference/html/aop.html  |
