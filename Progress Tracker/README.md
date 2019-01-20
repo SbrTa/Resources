@@ -18,30 +18,43 @@
 |   | YAGNI |   |
 |   | SOLID |   |
 |   | GRASP |   |
+||||
 | CSS | Fundamental |  |
 |   | Bootstrap  |   |  
+||||
 | Tiles 3 | Fundamentals with Example | Spring by Mozammel Haque 113-117   |
+||||
 | Hibernate | | |
 |   | Criteria Queries | https://docs.jboss.org/hibernate/orm/3.3/reference/en/html/querycriteria.html |
 |   | Session | https://docs.jboss.org/hibernate/core/3.5/api/org/hibernate/Session.html |
+||||
 | Spring | Fundamental | Spring by Mozammel Haque  |
 |   | Security |   |
+||||
 | AOP | Fundamental | Spring by Mozammel Haque https://app.pluralsight.com/library/courses/aspect-oriented-programming-spring-aspectj/table-of-contents https://docs.spring.io/spring/docs/4.3.15.RELEASE/spring-framework-reference/html/aop.html  |
 |   | AOP VS AspectJ | https://www.baeldung.com/spring-aop-vs-aspectj  |
+||||
 | REST | RestTemplate | https://www.baeldung.com/rest-template  |
+||||
 | Servlet | Fundamental | https://www.youtube.com/watch?v=b42CJ0r-1to&list=PLE0F6C1917A427E96 |
+||||
 | JSP | Fundamental | https://www.tutorialspoint.com/jsp/   |
 |   | Syntex: Declaration, Directive, Scriptlet, Expression, JSP action etc | https://www.tutorialspoint.com/jsp/jsp_syntax.htm  |
 |   | JSTL | https://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm  |
+||||
 | JSON | Fundamental |https://www.w3schools.com/js/js_json_intro.asp https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/  |
 |   | JsonPath | https://github.com/json-path/JsonPath   |
+||||
 | Java Script | Fundamental | https://app.pluralsight.com/library/courses/jscript-fundamentals/table-of-contents  |
 |   | jQuery | https://code.tutsplus.com/courses/30-days-to-learn-jquery   |
 |   | JS vs jQuery | https://www.w3schools.com/js/js_jquery_selectors.asp |
 |   | blueimp/JavaScript-Templates | https://github.com/blueimp/JavaScript-Templates |
+||||
 | AJAX | Fundamental |   |
 |   | jQuery.ajax | http://api.jquery.com/jquery.ajax/   |
+||||
 | Multi module | Project Structure | http://www.mkyong.com/maven/maven-how-to-create-a-multi-module-project/ https://github.com/mkyong/maven-examples/tree/master/java-multi-modules https://books.sonatype.com/mvnex-book/reference/multimodule.html |
+||||
 | Exception handling | The idea behind the exception |   |
 |   | Exception &amp; Errors |   |
 |   | Type of Exception |   |
