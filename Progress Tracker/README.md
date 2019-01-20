@@ -24,7 +24,7 @@
 |   | Session | https://docs.jboss.org/hibernate/core/3.5/api/org/hibernate/Session.html |
 | Spring | Fundamental | Spring by Mozammel Haque  |
 |   | Security |   |
-| AOP | Fundamental | Spring by Mozammel Haque https://docs.spring.io/spring/docs/4.3.15.RELEASE/spring-framework-reference/html/aop.html  |
+| AOP | Fundamental | Spring by Mozammel Haque https://app.pluralsight.com/library/courses/aspect-oriented-programming-spring-aspectj/table-of-contents https://docs.spring.io/spring/docs/4.3.15.RELEASE/spring-framework-reference/html/aop.html  |
 |   | AOP VS AspectJ | https://www.baeldung.com/spring-aop-vs-aspectj  |
 | REST | RestTemplate | https://www.baeldung.com/rest-template  |
 | Servlet | Fundamental | https://www.youtube.com/watch?v=b42CJ0r-1to&list=PLE0F6C1917A427E96 |
