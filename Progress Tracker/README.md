@@ -10,7 +10,7 @@
 |   | Interface |   |
 |   | Encapsulation |   |
 ||||
-| Lambda expression | | http://tutorials.jenkov.com/java/lambda-expressions.html https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html |
+| Lambda expression | | http://tutorials.jenkov.com/java/lambda-expressions.html https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html https://www.tutorialspoint.com/java8/java8_lambda_expressions.htm |
 ||||
 | Clean Code | Writing Code for Humans | https://app.pluralsight.com/library/courses/writing-clean-code-humans/table-of-contents  |
 ||||
