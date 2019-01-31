@@ -10,6 +10,8 @@
 |   | Interface |   |
 |   | Encapsulation |   |
 ||||
+| Lambda expression | | http://tutorials.jenkov.com/java/lambda-expressions.html https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html |
+||||
 | Clean Code | Writing Code for Humans | https://app.pluralsight.com/library/courses/writing-clean-code-humans/table-of-contents  |
 ||||
 | Design Principles |  | https://medium.com/omarelgabrys-blog/object-oriented-analysis-and-design-design-principles-part-6-b78e2b9da023 |
