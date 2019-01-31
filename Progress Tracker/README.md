@@ -155,12 +155,5 @@
 |   |   | Appender Additivity |   |
 |   |   | Configuration |   |
 |   |   | How to analyze logs |   |
-| 16 | Java Database connectivity | JDBC drivers |   |
-|   |   | Database operations |   |
-|   |   | Query, update and prepared statement |   |
-|   |   | Transaction management |   |
-|   |   | Using RowSet objects |   |
-|   |   | Using ResultSet objects |   |
-|   |   | Using stored procedure |   |
 
 
