@@ -26,7 +26,7 @@
 ||||
 | Tiles 3 | Fundamentals with Example | Spring by Mozammel Haque 113-117   |
 ||||
-| Hibernate | | |
+| Hibernate | | https://github.com/SbrTa/Java/tree/master/Hibernate/HibernateDemo |
 |   | Criteria Queries | https://docs.jboss.org/hibernate/orm/3.3/reference/en/html/querycriteria.html |
 |   | Session | https://docs.jboss.org/hibernate/core/3.5/api/org/hibernate/Session.html |
 ||||
