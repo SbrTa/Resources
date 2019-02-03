@@ -38,7 +38,8 @@
 | AOP | Fundamental | Spring by Mozammel Haque https://app.pluralsight.com/library/courses/aspect-oriented-programming-spring-aspectj/table-of-contents https://docs.spring.io/spring/docs/4.3.15.RELEASE/spring-framework-reference/html/aop.html  |
 |   | AOP VS AspectJ | https://www.baeldung.com/spring-aop-vs-aspectj  |
 ||||
-| REST | RestTemplate | https://www.baeldung.com/rest-template  |
+| REST | Fundamental | https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming https://stackoverflow.com/questions/32369856/non-restful-vs-restful https://stackoverflow.com/questions/2190836/what-is-the-difference-between-http-and-rest https://stackoverflow.com/questions/2191049/what-is-the-advantage-of-using-rest-instead-of-non-rest-http |
+|  | RestTemplate | https://www.baeldung.com/rest-template  |
 ||||
 | Servlet | Fundamental | https://www.youtube.com/watch?v=b42CJ0r-1to&list=PLE0F6C1917A427E96 |
 ||||
