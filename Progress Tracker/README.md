@@ -50,7 +50,7 @@
 |   | JsonPath | https://github.com/json-path/JsonPath   |
 | JSON - FasterXML | Jackson Core |  |
 |    | Jackson Databind | https://app.pluralsight.com/library/courses/java-json-databinding-jackson/table-of-contents |
-|    | Jackson Annotation | |
+|    | Jackson Annotation | https://github.com/FasterXML/jackson-annotations https://github.com/FasterXML/jackson-annotations/wiki/Jackson-Annotations |
 ||||
 | Java Script | Fundamental | https://app.pluralsight.com/library/courses/jscript-fundamentals/table-of-contents  |
 |   | jQuery | https://code.tutsplus.com/courses/30-days-to-learn-jquery   |
