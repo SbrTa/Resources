@@ -48,8 +48,8 @@
 ||||
 | JSON | Fundamental |https://www.w3schools.com/js/js_json_intro.asp https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/  |
 |   | JsonPath | https://github.com/json-path/JsonPath   |
-| JSON - FasterXML | Jackson Databind | https://app.pluralsight.com/library/courses/java-json-databinding-jackson/table-of-contents |
-|    | Jackson Core | |
+| JSON - FasterXML | Jackson Core |  |
+|    | Jackson Databind | https://app.pluralsight.com/library/courses/java-json-databinding-jackson/table-of-contents |
 |    | Jackson Annotation | |
 ||||
 | Java Script | Fundamental | https://app.pluralsight.com/library/courses/jscript-fundamentals/table-of-contents  |
