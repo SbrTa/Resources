@@ -13,5 +13,7 @@ ENUM:
 
 # Angular
 Intro: https://www.techiediaries.com/angular-tutorial-basics/
+Course: https://www.udemy.com/the-complete-guide-to-angular-2/
+
 
 
