@@ -9,3 +9,9 @@ ENUM:
   - https://www.youtube.com/watch?v=ThN8IXr0n_k
   
 ??
+
+
+# Angular
+Intro: https://www.techiediaries.com/angular-tutorial-basics/
+
+
