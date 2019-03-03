@@ -8,17 +8,15 @@ aws
 
 google cloud
 
-Groovy 
-
 Grails
 
 Node.js
 
-React.js
+React
 
-Angular.js 2
+Angular 2
 
-Vue.js
+Vue
 
 Thymeleaf
 
