@@ -10,7 +10,7 @@ ENUM:
 
 JPA:
   - https://www.petrikainulainen.net/spring-data-jpa-tutorial/
-  - 
+  - https://stackabuse.com/guide-to-spring-data-jpa/
 ??
 
 
