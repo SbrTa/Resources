@@ -7,7 +7,10 @@ ENUM:
   - https://www.youtube.com/watch?v=sI4utYmh7O4
   - https://www.youtube.com/watch?v=KOAsLaK4Wzw
   - https://www.youtube.com/watch?v=ThN8IXr0n_k
-  
+
+JPA:
+  - https://www.petrikainulainen.net/spring-data-jpa-tutorial/
+  - 
 ??
 
 
