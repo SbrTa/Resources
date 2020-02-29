@@ -25,7 +25,8 @@
 ## L
   - Loosely Coupled
 ## M
-  -
+  - Mock
+  - Mockito
 ## N
   -
 ## O
@@ -39,9 +40,9 @@
 ## S
   -  
 ## T
-  -
+  - Tight Coupling
 ## U
-  -
+  - Unit Test
 ## V
   -
 ## W
