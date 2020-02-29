@@ -3,9 +3,9 @@
 ## A
   - Autowire
 ## B
-  -
+  - Bean
 ## C
-  -  
+  - Constructor
 ## D
   - Dependency Injection (DI)
 ## E
@@ -32,7 +32,7 @@
 ## O
   -  
 ## P
-  -
+  - POJO (Plain Old Java Object)
 ## Q
   -
 ## R
