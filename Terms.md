@@ -1,15 +1,19 @@
 # Terms
 
 ## A
+  - Abstraction
   - Autowire
+  - AOP 
+  - AspectJ
 ## B
   - Bean
+  - Bootstrap
 ## C
   - Constructor
 ## D
   - Dependency Injection (DI)
 ## E
-  -
+  - Encapsulation
 ## F
   - Fragile
 ## G
@@ -17,6 +21,8 @@
 ## H
   -
 ## I
+  - Inheritence
+  - Interface
   - IOC (Inversion of Control)
 ## J
   -
@@ -33,6 +39,7 @@
   -  
 ## P
   - POJO (Plain Old Java Object)
+  - Polymorphism
 ## Q
   -
 ## R
