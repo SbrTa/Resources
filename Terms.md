@@ -17,7 +17,7 @@
 ## F
   - Fragile
 ## G
-  -  
+  - Garbage Collection (GC)
 ## H
   -
 ## I
